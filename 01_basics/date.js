@@ -19,10 +19,10 @@ console.log(newDate.getMonth()+1);
 
 
 
-newDate.toLocaleString('default',{
-    weekday: "long",
-    timeZone: 
-})
+// newDate.toLocaleString('default',{
+//     weekday: "long",
+//     timeZone: 
+// })
 
 
 
